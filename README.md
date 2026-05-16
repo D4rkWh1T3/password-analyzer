@@ -21,7 +21,8 @@ security and suggests stronger alternatives using cryptography concepts.
 - ⚡ Lightweight — no external libraries needed
 
 ---
-
+## 📸 Screenshot
+![Tool Running](screenshots/screenshot.png)
 ## 🛠️ Installation
 
 ### Requirements
