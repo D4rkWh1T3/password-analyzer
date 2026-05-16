@@ -22,7 +22,7 @@ security and suggests stronger alternatives using cryptography concepts.
 
 ---
 ## 📸 Screenshot
-![Tool Running](screenshots/screenshot.png)
+![Tool Running](passwordAnalyser.png)
 ## 🛠️ Installation
 
 ### Requirements
