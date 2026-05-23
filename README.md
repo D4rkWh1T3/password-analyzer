@@ -31,7 +31,7 @@ security and suggests stronger alternatives using cryptography concepts.
 - Kali Linux / Any Linux distro
 
 ### Clone the repo
-git clone https://github.com/RohitShinde7498/password-analyzer.git
+git clone https://github.com/D4rkWh1T3/password-analyzer.git
 cd password-analyzer
 
 ### Run directly - no installation needed!
