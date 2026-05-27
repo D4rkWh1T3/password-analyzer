@@ -137,7 +137,7 @@ Use it to improve your own password security.
 
 ## 👤 Author
 Rohit Shinde
-- GitHub: @RohitShinde7498
+- GitHub: @D4rkWh1T3
 
 ---
 
